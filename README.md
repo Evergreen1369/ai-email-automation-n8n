@@ -13,10 +13,12 @@ An intelligent email automation workflow built using **n8n** that automatically 
 - Google Gemini AI Model
 - Gmail Node for direct email sending
 
-## Screenshots
-![Workflow Overview](screenshot-workflow.jpg)
-![Email Sent Successfully](screenshot-email-sent.jpg)
+## Screenshojpg)
 
+## Screenshots
+![Workflow Overview](IMG202601021157....jpg)  
+![Workflow Detail](IMG202601021220....jpg)    
+![Demo Screenshot](Screenshot_2026-0....jpg)  
 ## Use Cases
 Perfect for:
 - Automated customer support replies
