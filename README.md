@@ -31,3 +31,13 @@ This is my first hands-on project in AI-driven automation — excited to build m
 Feel free to fork, star ⭐, or reach out if you'd like a similar workflow built for your needs!
 
 #AI #Automation #n8n #GeminiAI #NoCode #LowCode
+## How to Import and Use This Workflow
+1. Download the `My workflow 2.json` file from this repository
+2. Open your n8n instance
+3. Go to Import → Upload the JSON file
+4. Connect your Gmail credentials and Gemini API key
+5. Save, activate, and run — your AI email agent is ready! 🚀
+
+Thanks for visiting! Feel free to star ⭐ or fork if you like it.
+
+More AI automation projects coming soon!
